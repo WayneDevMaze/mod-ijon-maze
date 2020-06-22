@@ -13,5 +13,5 @@ maze_show.c 当fuzz跑完跑出结果的时候调用这个文件对应的程序�
 提前安装好ijon，流程可以看这里[粗制滥造的教程23333](https://www.cnblogs.com/wayne-tao/p/13064634.html)，或者[官方说明](https://github.com/RUB-SysSec/ijon)
 ```bash
 bash build.sh
-bash run_afl.sh
+bash run_afl.sh maze.tiny.bt
 ```
